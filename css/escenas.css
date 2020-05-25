@@ -1,0 +1,27 @@
+body{
+    background-image: url("../img/Escenas/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+#galeria img{
+    width: 70px;
+    height: 70px;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+#galeria{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-bottom: 150px;
+    margin-right: 150px;
+    width: 100%;
+}
+img title{
+    font-size: 15px;
+    color: blue;
+}

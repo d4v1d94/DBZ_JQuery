@@ -1,0 +1,28 @@
+body{
+    background-image: url("../img/Tecnicas/BakcGround.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: top;
+    
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 50px;
+}
+img{
+    width: 150px;
+    height: 100px;
+    cursor: pointer;
+    
+}
+#foto p{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    width: 300px;
+}

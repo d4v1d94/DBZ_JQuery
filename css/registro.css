@@ -1,0 +1,19 @@
+body{
+    background-image: url("../img/hola.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 650px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+#principal{
+   
+    margin-top: 10px;
+    padding: 10px 10px 10px 50px;
+    background-color: darkorange;
+    box-shadow: 10px 10px 5px 0px gray;
+    border-radius: 10px;
+}
+td{
+    padding-bottom: 15px;
+}

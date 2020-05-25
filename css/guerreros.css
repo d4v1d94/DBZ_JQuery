@@ -1,0 +1,41 @@
+#contenedor1 {
+    position: absolute;
+    left: 70px;
+    top: 177px;
+    width: 400px;
+    height: 290px;
+    z-index: 1;
+}
+#contenedor2 {
+    position: absolute;
+    left: 510px;
+    top: 177px;
+    width: 408px;
+    height: 298px;
+    z-index: 2;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin: 10px 0;
+    font-size: 25px;
+    widows: 95px;
+}
+h1{
+    text-align: center;
+}
+.destacar{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+img{
+    width: 350px;
+    height: 200px;
+}
+body{
+    
+    background-image: url("../img/Fondo.jpg");
+    background-repeat: no-repeat;
+}

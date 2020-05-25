@@ -1,0 +1,50 @@
+#gokun,#vegetan{
+    width: 100px;
+    height: 125px;
+    float: left;
+}
+h1{
+    text-align: center;
+}
+#biografiaGoku, #biografiaVegeta{
+    width: 30%;
+    margin: 0 100px;
+    float: left;
+    border: blue solid 2px;
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+    margin-top: 10px;
+}
+#imagen_grande,#imagen_grande2{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    width: 700px;
+    height: 405px;
+    z-index: 1;
+    border: dotted 5px blue;
+}
+#menu{
+    position: absolute;
+    left: -210px;
+    top: 0px;
+    width: 213px;
+    height: 232px;
+    background-color: orange;
+    padding: 15px;
+    
+}
+#btn{
+    position: absolute;
+    left: 216px;
+    top: 5px;
+    width: 21px;
+    height: 25px;
+    z-index: 1;
+    cursor: pointer;
+}

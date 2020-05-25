@@ -1,0 +1,26 @@
+body{
+    background-image: url("../img/Fondopre.jpg") ;
+    
+    background-size: cover;
+}
+h1, h2 {
+    color: white;
+    text-align: center;
+}
+h3{
+    background: url(../imgs/open.png) no-repeat 0 11px;
+	padding: 10px 0 0 25px;
+    cursor: pointer;
+    color: white;
+}
+h3.cerrar {
+	background-image: url(../imgs/close.png);
+}
+ p{
+    margin-left: 50px;
+    color: white;
+    margin-right: 300px;
+}
+.negro{
+    color: black;
+}

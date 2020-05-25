@@ -1,0 +1,31 @@
+realizar pagina web de dbz y naruto JavaScript con:
+- imagenes que aparecen lentamente.X
+- que tenga un baner que se pueda cerrar.X
+- unos productos que se dejen agregar al carrito.//Pendiente video 5
+- dos botones radio uno que seleccione imagenes de Goku y otro que seleccione de Vegeta X 
+- un enlace que lleve a la historia de los dos animes y pueda aumentar y disminuir el texto.X
+- otro boton para poner modo lectura.X
+- cada vez que se pase el mouse por una imagen alterne con otra.X
+- hacer otra galeria donde la imagen pase de opaca a resaltar.
+- hacer un enlace donde alla una lista con el nombre de un personaje principal y cada vez que seleccionen un 
+nombre aparezca la imagen del personaje.X
+- hacer un boton que acerque las imagenes y las haga resaltar.X
+- hacer un boton de broma, y por cada vez que pase por encima de vegeta salga golpeaste a vegeta, y cada 
+vez que de doble clic sobre naruto diga soy naruto y con goku tambien.X
+- cada vez que pase el mouse encima de una imagen especifica, me de sus datos.X
+- hacer unos menus despegables con toggle.X
+- hacer unos enlace a preguntas con respuestas ocultas.X
+- con la funcion bind hacer que unas imagenes se amplien, poner de titulo funcion bind.X
+- hacer un despegable de login.X
+- hacer un enlace que lleve a unos gif corriendo y cada vez que de clic corran.X
+- hacer un menu despegable a la izquierda con los links de los enlaces que llevamos hechos.X
+- hacer imagenes especiales con las tecnicas de los personajes y que duren un corto tiempo grandes.X
+- poner animacion de rebote al despegable de la izquierda.
+- poner preloader.
+- hacer un link que lleve a una galeria fancybox.X
+- hacer un enlacea una pagina que lleve a unos enlaces con iframe de facebook youtube e instagram.X
+- hacer una galeria fancy que lleve a paginas de juegos.X
+- hacer un formulario de inscripcion.X
+- hacer un formulario de compra.X
+- los formularios llevan validaciones.X
+Termineeeee!

@@ -1,0 +1,170 @@
+$(document).ready(function(){
+    $("#titulo").hide();
+    $("#titulo2").hide();
+    $("#titulo3").hide();
+    $("#titulo4").hide();
+    $("#titulo5").hide();
+    $("#titulo6").hide();
+    $("#titulo7").hide();
+    $("#titulo8").hide();
+    $("#titulo9").hide();
+    $("#titulo10").hide();
+    $("#titulo11").hide();
+    $("#imagen1").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen2").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo2").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen3").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo3").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen4").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo4").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen5").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo5").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen6").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo6").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen7").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo7").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen8").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo8").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen9").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo9").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen10").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+			height:"200px"
+		},1200,function(){
+			$("#titulo10").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+			height:"40px"
+		},1200);
+    });
+    $("#imagen11").width(60).height(40).click(function(){
+		$(this).animate({
+			marginLeft:"150px",
+			width:"300px",
+            height:"200px",
+            
+		},1200,function(){
+			$("#titulo11").fadeIn(1000).delay(1000).fadeOut(1000);
+		}).delay(3000);//termina animate
+		$(this).animate({
+			marginLeft:"0px",
+			width:"60px",
+            height:"40px",
+            
+		},1200);
+    });
+    
+});

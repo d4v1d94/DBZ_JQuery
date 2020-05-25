@@ -1,0 +1,135 @@
+body{
+    margin-left: 50px;
+    background-color: #000000;
+   margin-right: 50px;
+   width: 100%;
+   overflow: hidden 
+}
+#titulo{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#goku3, #goku4, #goku5, #goku6, #goku7, #vegeta3, #vegeta1, #vegeta2 {
+    width: 300px;
+    height: 200px;
+}
+.linkDestacaImagen{
+    width: 800px;
+    height: 700px;
+    border: 2px dotted red;
+}
+#banner{
+    background-image: url("../img/saludo.gif");
+    width: 310px;
+    height: 200px;
+    position: absolute;
+    left: 450px;
+    top: 220px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    
+}
+#cerrar{
+    cursor: pointer;
+}
+table{
+    margin-left: 200px;
+    text-align: center;
+    border: none;
+}
+td{
+    border: none;
+    color: white;
+}
+#biografia, #guerreros{
+    font-size: medium;
+    color: white;
+    text-align: left;
+
+}
+#mensajeVegeta, #mensajeGoku{
+    position: absolute;
+    left: 1100px;
+    top: 480px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    font-size: 12px;
+    padding: 25px;
+    border: dotted 1px orange;
+    color: white;
+}
+#login #boton{
+    margin-left: 50px;
+}
+#login input{
+    font-size: 11px;
+}
+#login label{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin: 0 15px 0 0;
+    color: chocolate;
+}
+#login form{
+    padding: 10px 10px 10px 10px;
+    display: none;
+    background-color: white;
+}
+#abierto:hover{
+    color: black;
+    background-color: cadetblue;
+}
+#login .cerrado{
+    background-image:url(../imgs/close.png);
+	background-color: rgb(110,138,195);	
+}
+#login {
+	width: 190px;
+	position: absolute;
+	left: 1150px;
+	top: 8px;
+	z-index: 100;
+}
+
+#abierto {
+	margin: 0;
+	cursor: pointer;
+	background: rgb(255,255,255)  url(../imgs/open.png) no-repeat 8px 5px;
+	color: rgb(58,80,123);
+	padding: 5px 0 2px 30px;
+}
+#menu {
+    width: 70px;
+    background-color: darkorange;
+    padding: 20px 20px 0 20px;
+    position: absolute;
+    right: -92px;
+    z-index: 100;
+    margin-top: -500px;
+}
+#menu img, #menu2 img{
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+#menu2{
+    width: 70px;
+    background-color: darkorange;
+    padding: 20px 20px 0 20px;
+    position: absolute;
+    left: -92px;
+    z-index: 100;
+    margin-top: -500px;
+}
+h2{
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#milista{
+    color: white;
+    list-style: -o-linear-gradient();
+}
